@@ -4,8 +4,10 @@ Program Lang Semantics_python
 
 Python!!! assignment 2
 
-_stretched
-_interpreter
-_tail recursion
-_currying
-_WNBA data science
+*stretched
+*interpreter
+*tail recursion
+*currying
+*WNBA data science
+
+copyright march 1 2021
